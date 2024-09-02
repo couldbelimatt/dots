@@ -15,7 +15,8 @@ probably some other stuff i forgot but i'll fix it when / if i remember
 - Done
 
 # Credit
-## Fastfetch
+
+Fastfetch
 - https://github.com/LierB/fastfetch -- ty!!
 
 # !!! Note !!!
