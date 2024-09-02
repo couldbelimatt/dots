@@ -3,7 +3,7 @@
 > i fixed the dual cpu & ram on polybar ignore that lmao
 
 ## Introduction
-This is my first time setting up a WM without using a preconfigured rice, lol \ 
+This is my first time setting up a WM without using a preconfigured rice, lol \
 Things are bound to be written poorly or broken but oh well.
 
 ## Packages
