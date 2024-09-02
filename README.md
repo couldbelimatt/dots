@@ -7,12 +7,12 @@
 probably some other stuff i forgot but i'll fix it when / if i remember
 
 ## Fonts
-Get the Fonts [here](https://www.jetbrains.com/lp/mono/) & [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) \
-Move files to ~/.local/share/fonts, create if doesn't exist
+- Get the Fonts [here](https://www.jetbrains.com/lp/mono/) & [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) \
+- Move files to ~/.local/share/fonts, create if doesn't exist
 
-Run ```fc-cache -f -v ``` 
+- Run ```fc-cache -f -v ``` 
 
-Done
+- Done
 
 # !!! Note !!!
 Some of the attached files contain things from other repos & people. \
