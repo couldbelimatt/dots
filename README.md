@@ -1,6 +1,11 @@
 # My dotfiles for AwesomeWM on Arch
 ![awesome1](https://fuji.s-ul.eu/bpLr62e0)
 > i fixed the dual cpu & ram on polybar ignore that lmao
+
+## Introduction
+This is my first time setting up a WM without using a preconfigured rice, lol \ 
+Things are bound to be written poorly or broken but oh well.
+
 ## Packages
 ``` yay -S picom rofi polybar fastfetch feh xfce4-screenshooter rofi-powermenu ``` 
 
