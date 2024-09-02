@@ -1,5 +1,6 @@
 # My dotfiles for AwesomeWM
-image when i can be bothered
+!(https://fuji.s-ul.eu/HCUwvAdq" ")
+
 ## Packages
 ``` yay -S picom rofi polybar fastfetch feh xfce4-screenshooter rofi-powermenu ``` 
 
