@@ -14,6 +14,9 @@ probably some other stuff i forgot but i'll fix it when / if i remember
 
 - Done
 
+# Credit
+https://github.com/LierB/fastfetch - fastfetch config -- ty!!
+
 # !!! Note !!!
 Some of the attached files contain things from other repos & people. \
 I can't remember all the sources for stuff, but I will add them as I rediscover them.
