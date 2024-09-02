@@ -1,6 +1,6 @@
 # My dotfiles for AwesomeWM
 ![awesome1](https://fuji.s-ul.eu/bpLr62e0)
-
+> i fixed the dual cpu & ram on polybar ignore that lmao
 ## Packages
 ``` yay -S picom rofi polybar fastfetch feh xfce4-screenshooter rofi-powermenu ``` 
 
