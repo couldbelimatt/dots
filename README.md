@@ -6,4 +6,6 @@
 
 probably some other stuff i forgot but i'll fix it when / if i remember
 
-> various strings taken from random forums, repos and videos. if you see your code inside my dots, thanks :)
+# !!! Note !!!
+Some of the attached files contain things from other repos & people. \
+I can't remember all the sources for stuff, but I will add them as I rediscover them.
