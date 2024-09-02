@@ -1,0 +1,28 @@
+import = ["/home/limatt/.alacritty-colorscheme/themes/nord.yaml"]
+
+[font]
+size = 17.0
+
+[font.bold]
+family = "jetBrainsMono"
+
+[font.bold_italic]
+family = "jetBrainsMono"
+
+[font.italic]
+family = "jetBrainsMono"
+
+[font.normal]
+family = "jetBrainsMono"
+
+[window]
+opacity = 0.9
+title = "MainFrame"
+
+[window.dimensions]
+columns = 80
+lines = 23
+
+[window.padding]
+x = 6
+y = 6
