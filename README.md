@@ -1,5 +1,5 @@
 # My dotfiles for AwesomeWM
-//![awesome1](https://fuji.s-ul.eu/HCUwvAdq)
+![awesome1](https://fuji.s-ul.eu/bpLr62e0)
 
 ## Packages
 ``` yay -S picom rofi polybar fastfetch feh xfce4-screenshooter rofi-powermenu ``` 
