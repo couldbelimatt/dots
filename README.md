@@ -2,7 +2,7 @@
 ![awesome1](https://fuji.s-ul.eu/SHExnB2g)
 ![awesome2](https://fuji.s-ul.eu/vLAyq6jb)
 
-## Introduction
+## Hello!
 This is my first time setting up a WM without using a preconfigured rice, lol. \
 Things are bound to be written poorly or broken but oh well. 
 
