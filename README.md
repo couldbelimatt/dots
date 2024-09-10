@@ -22,9 +22,9 @@ probably some other stuff i forgot but i'll fix it when / if i remember
 - Done
 
 ## Battery indicator
-Simply replace line 56 in ~/.config/polybar/config.ini with ```modules-right = battery xkeyboard memory cpu eth ``` \
-Reload awesome with ```ctrl+mod+r``` \
-Done!
+- Simply replace line 56 in ```~/.config/polybar/config.ini``` with ```modules-right = battery xkeyboard memory cpu eth ``` 
+- Reload awesome with ```ctrl+mod+r```
+- Done!
 
 ## Credit
 
