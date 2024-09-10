@@ -251,6 +251,18 @@ globalkeys = gears.table.join(
    -- awful.key("Print", function () awful.spawn(xfce4-screenshooter) end,
             --  {description = "take a screenshot", group = "launcher"})
 
+    awful.key({}, "F3", function()
+        awful.spawn("pactl set-sink-volume @DEFAULT_SINK@ +5%")
+    end, {description = "increase volume", group = "audio"}),
+
+    awful.key({}, "F2", function()
+        awful.spawn("pactl set-sink-volume @DEFAULT_SINK@ -5%")
+    end, {description = "decrease volume", group = "audio"}),
+
+    awful.key({}, "F1", function()
+        awful.spawn("pactl set-sink-mute @DEFAULT_SINK@ toggle")
+    end, {description = "toggle mute", group = "audio"}),
+
     awful.key({ modkey,           }, "j",
         function ()
             awful.client.focus.byidx( 1)
@@ -607,4 +619,3 @@ awful.spawn.with_shell("feh --bg-fill ~/wall.jpeg")
 awful.spawn.with_shell("picom")
 awful.spawn.with_shell("xrandr --output DP-0 --mode 1920x1080 --rate 240 --output HDMI-1 --mode 1920x1080 --rate 60")
 awful.spawn.with_shell("polybar")
- 
