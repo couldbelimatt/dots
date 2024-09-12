@@ -1,4 +1,5 @@
-# My dotfiles for [AwesomeWM]([https://awesomewm.org/]) on Arch
+# limatt dotfiles
+My dotfiles for [AwesomeWM]([https://awesomewm.org/]) on Arch
 ![awesome1](https://fuji.s-ul.eu/7kqrMP6y)
 ![awesome2](https://fuji.s-ul.eu/mFzfjjhV)
 
@@ -20,7 +21,6 @@ Should be everything
 ### Fonts (optional)
 - Get the Font [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) 
 - Move files to ``` ~/.local/share/fonts ```, create if dir doesn't exist
-https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip)  
 - Run ```fc-cache -f -v ``` 
 
 - Done
