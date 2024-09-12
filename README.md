@@ -1,4 +1,4 @@
-# My dotfiles for [AwesomeWM]([https://awesomewm.org/)] on Arch
+# My dotfiles for [AwesomeWM]([https://awesomewm.org/]) on Arch
 ![awesome1](https://fuji.s-ul.eu/7kqrMP6y)
 ![awesome2](https://fuji.s-ul.eu/mFzfjjhV)
 
