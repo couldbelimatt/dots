@@ -8,18 +8,23 @@ I'm sure there are things I could've done a better way, but for now, I think thi
 
 I may end up adding or fixing stuff for a while until life catches up with me again.
 
-## Packages
-``` yay -S picom rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen ``` 
+## Dependencies
+
+### Packages
+``` yay -S picom rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen brightnessctl``` 
 
 probably some other stuff i forgot but i'll fix it when / if i remember
 
-## Fonts
-- Get the Fonts [here](https://www.jetbrains.com/lp/mono/) & [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) 
-- Move files to ``` ~/.local/share/fonts ```, create if doesn't exist
+### Fonts
+- Get the Font [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) 
+- Move files to ``` ~/.local/share/fonts ```, create if dir doesn't exist
 
 - Run ```fc-cache -f -v ``` 
 
 - Done
+
+## Keybindings
+You can view the keyboard bindings at any time by pressing ```Mod + S ```
 
 ## Credit
 
