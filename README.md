@@ -13,7 +13,7 @@ I may end up adding or fixing stuff for a while until life catches up with me ag
 ## Dependencies
 
 ### Packages (required)
-``` yay -S picom micro alacritty nemo rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen brightnessctl``` 
+```yay -S picom micro alacritty nemo rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen brightnessctl``` 
 Should be everything
 
 ### Packages (optional)
