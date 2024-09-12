@@ -1,5 +1,6 @@
-# limatt dotfiles
-My dotfiles for [AwesomeWM]([https://awesomewm.org/about]) on Arch
+# limatt dotfiles 
+My dotfiles for [AwesomeWM]([https://awesomewm.org/about]) on Arch \
+
 ![awesome1](https://fuji.s-ul.eu/7kqrMP6y)
 ![awesome2](https://fuji.s-ul.eu/mFzfjjhV)
 
