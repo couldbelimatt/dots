@@ -10,18 +10,21 @@ I may end up adding or fixing stuff for a while until life catches up with me ag
 
 ## Dependencies
 
-### Packages
-``` yay -S picom rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen brightnessctl``` 
+### Packages (required)
+``` yay -S picom micro rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen brightnessctl``` 
 
 probably some other stuff i forgot but i'll fix it when / if i remember
 
-### Fonts
+### Fonts (optional)
 - Get the Font [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) 
 - Move files to ``` ~/.local/share/fonts ```, create if dir doesn't exist
-
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip)  
 - Run ```fc-cache -f -v ``` 
 
 - Done
+
+### Micro colorscheme
+Get those from [here](https://github.com/KiranWells/micro-nord-tc-colors)
 
 ## Keybindings
 You can view the keyboard bindings at any time by pressing ```Mod + S ```
