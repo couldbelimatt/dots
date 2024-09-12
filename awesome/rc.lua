@@ -263,6 +263,15 @@ globalkeys = gears.table.join(
         awful.spawn("pactl set-sink-mute @DEFAULT_SINK@ toggle")
     end, {description = "toggle mute", group = "audio"}),
 
+    awful.key({}, "F6", function()
+        awful.spawn("brightnessctl set +10")
+    end, {description = "increase brightness (+10)", group = "brightness"}),
+
+    awful.key({}, "F5", function()
+        awful.spawn("brightnessctl set 10-")
+    end, {description = "decrease brightness (-10)", group = "brightness"}),
+
+
     awful.key({ modkey,           }, "j",
         function ()
             awful.client.focus.byidx( 1)
