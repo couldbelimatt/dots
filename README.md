@@ -11,9 +11,11 @@ I may end up adding or fixing stuff for a while until life catches up with me ag
 ## Dependencies
 
 ### Packages (required)
-``` yay -S picom micro rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen brightnessctl``` 
+``` yay -S picom micro alacritty nemo rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen brightnessctl``` 
+Should be everything
 
-probably some other stuff i forgot but i'll fix it when / if i remember
+### Packages (optional)
+```yay -S ly zen-browser lf kdenlive audacity```
 
 ### Fonts (optional)
 - Get the Font [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip) 
