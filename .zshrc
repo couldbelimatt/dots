@@ -103,6 +103,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-fastfetch --colors-block-range-start 9 --colors-block-width 3
-alias aweconfig= "micro /home/limatt/.config/awesome/rc.lua"
-alias install= 'sudo pacman'
+fastfetch --colors-block-range-start 9 --colors-block-width 3 --logo arch --logo-type small
+
+##-----------------------------------------------------
