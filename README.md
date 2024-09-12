@@ -3,7 +3,7 @@
 ![awesome2](https://fuji.s-ul.eu/mFzfjjhV)
 
 ## Hello!
-This is my first rice, I'mconstantly adding to it and learning more about awesome & the utilities along side it. \
+This is my first rice, I'm constantly adding to it and learning more about awesome & the utilities along side it. \
 I'm sure there are things I could've done a better way, but for now, I think this is fine.
 
 I may end up adding or fixing stuff for a while until life catches up with me again.
