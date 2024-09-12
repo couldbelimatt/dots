@@ -307,7 +307,10 @@ globalkeys = gears.table.join(
               {description = "quit awesome", group = "awesome"}),
 
     	 awful.key({ }, "Print", function() awful.spawn("xfce4-screenshooter") end,
-	 			{description = "take a screenshot", group = "utilities"}),
+	 			{description = "take a screenshot", group = "launcher"}),
+
+	    awful.key({ modkey }, "x", function () awful.spawn("betterlockscreen -l") end,
+						{description = "lock your screen", group = "launcher"}),
 
 		 awful.key({ modkey }, "a", function () awful.spawn("rofi -modi windowcd -show windowcd") end,
 				{description = "show windows (current desktop)", group = "launcher"}),   
@@ -356,16 +359,6 @@ globalkeys = gears.table.join(
     awful.key({ modkey },            "r",     function () awful.spawn("rofi -show run") end,
               {description = "open rofi", group = "launcher"}),
 
-    awful.key({ modkey }, "x",
-              function ()
-                  awful.prompt.run {
-                    prompt       = "Run Lua code: ",
-                    textbox      = awful.screen.focused().mypromptbox.widget,
-                    exe_callback = awful.util.eval,
-                    history_path = awful.util.get_cache_dir() .. "/history_eval"
-                  }
-              end,
-              {description = "lua execute prompt", group = "awesome"}),
     -- Menubar
     awful.key({ modkey }, "p", function() menubar.show() end,
               {description = "show the menubar", group = "launcher"})
