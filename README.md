@@ -1,10 +1,10 @@
 # My dotfiles for AwesomeWM on Arch
-![awesome1](https://fuji.s-ul.eu/SHExnB2g)
-![awesome2](https://fuji.s-ul.eu/vLAyq6jb)
+![awesome1](https://fuji.s-ul.eu/7kqrMP6y)
+![awesome2](https://fuji.s-ul.eu/mFzfjjhV)
 
 ## Hello!
-This is my first time setting up a WM without using a preconfigured rice, lol. \
-Things are bound to be written poorly or broken but oh well. 
+This is my first rice, I'mconstantly adding to it and learning more about awesome & the utilities along side it. \
+I'm sure there are things I could've done a better way, but for now, I think this is fine.
 
 I may end up adding or fixing stuff for a while until life catches up with me again.
 
