@@ -9,7 +9,7 @@ Things are bound to be written poorly or broken but oh well.
 I may end up adding or fixing stuff for a while until life catches up with me again.
 
 ## Packages
-``` yay -S picom rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu dunst ``` 
+``` yay -S picom rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen ``` 
 
 probably some other stuff i forgot but i'll fix it when / if i remember
 
