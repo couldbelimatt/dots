@@ -14,7 +14,6 @@ I may end up adding or fixing stuff for a while until life catches up with me ag
 
 ### Packages (required)
 ```yay -S picom micro alacritty nemo rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen brightnessctl``` 
-Should be everything
 
 ### Packages (optional)
 ```yay -S ly zen-browser lf kdenlive audacity```
