@@ -8,7 +8,7 @@ My dotfiles for [AwesomeWM]([https://awesomewm.org/about]) on Arch
 This is my first rice, I'm constantly adding to it and learning more about awesome & the utilities along side it. \
 I'm sure there are things I could've done a better way, but for now, I think this is fine.
 
-I may end up adding or fixing stuff for a while until life catches up with me again.
+This setup is designed for work, web browsing and some gaming.
 
 ## Dependencies
 
