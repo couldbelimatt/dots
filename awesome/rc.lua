@@ -315,7 +315,7 @@ globalkeys = gears.table.join(
     awful.key({ modkey, "Shift"   }, "q", awesome.quit,
               {description = "quit awesome", group = "awesome"}),
 
-    	 awful.key({ }, "Print", function() awful.spawn("gnome-screenshot -ca") end,
+    	 awful.key({ }, "Print", function() awful.spawn("gscreenshot -s") end,
 	 			{description = "take a screenshot", group = "launcher"}),
 
 	    awful.key({ modkey }, "x", function () awful.spawn("betterlockscreen -l") end,
