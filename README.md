@@ -13,7 +13,7 @@ This setup is designed for work, web browsing and some gaming.
 ## Dependencies
 
 ### Packages (required)
-```yay -S picom micro alacritty nemo rofi polybar fastfetch feh xfce4-screenshooter rofi-power-menu betterlockscreen brightnessctl``` 
+```yay -S picom micro alacritty nemo rofi polybar fastfetch feh gnome-screenshot rofi-power-menu betterlockscreen brightnessctl``` 
 
 ### Packages (optional)
 ```yay -S ly zen-browser lf kdenlive audacity```
